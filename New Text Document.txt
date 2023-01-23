@@ -1,0 +1,20 @@
+1. types of inheritence
+2. constructor chaining
+3. difference b\w this and super keyword
+4. wrapper class
+5. Auto boxing and unboxing
+
+	int   Integer
+	char  Character
+	byte  Byte
+	boolean Boolean
+	short Short
+	long  Long 
+	float Float
+	double Double
+5. vector vs Arraylist
+
+New size - 3/1*currentSize +1 (arrayList)
+New Size = 2*currentSize (vector)
+
+
